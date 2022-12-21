@@ -5,7 +5,7 @@ import data from "./sample_data.json";
 function App() {
   return (
     <div className="app">
-      <h1 className="title">Toni Trivia!</h1>
+      <h1 className="title">Toni Trivia! Another change</h1>
     </div>
   );
 }
